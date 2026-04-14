@@ -87,7 +87,7 @@ exit
 ---
 ## Скриншоты работы
 **Сервер**
-![](./screenshots/server.png)
+![](./screenshots/Server.png)
 
 **Клиент**
-![](./screenshots/client.png)
+![](./screenshots/Client.png)
